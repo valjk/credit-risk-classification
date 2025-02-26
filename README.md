@@ -5,9 +5,9 @@ The purpose of this analysis was to develop and evaluate a machine learning mode
 
 **The Results**
 
-**Accuracy Score:** The model achieved a high accuracy score, indicating a large percentage of correctly classified loans overall.
-**Precision Score:** The precision score for healthy loans (0) was high, meaning that when the model predicted a healthy loan, it was very likely to be correct. The precision score for high-risk loans (1) was lower, indicating that when the model predicted a high-risk loan, it was less likely to be correct.
-**Recall Score:** The recall score for healthy loans (0) was high, indicating that the model effectively identified most of the actual healthy loans. However, the recall score for high-risk loans (1) was lower, suggesting that the model missed a significant portion of actual high-risk loans.
+- **Accuracy Score:** The model achieved a high accuracy score, indicating a large percentage of correctly classified loans overall.
+- **Precision Score:** The precision score for healthy loans (0) was high, meaning that when the model predicted a healthy loan, it was very likely to be correct. The precision score for high-risk loans (1) was lower, indicating that when the model predicted a high-risk loan, it was less likely to be correct.
+- **Recall Score:** The recall score for healthy loans (0) was high, indicating that the model effectively identified most of the actual healthy loans. However, the recall score for high-risk loans (1) was lower, suggesting that the model missed a significant portion of actual high-risk loans.
 
 **Summary**
 
